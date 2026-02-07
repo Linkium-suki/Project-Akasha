@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- 如果你有Logo放这里，没有就先空着或找个好看的Emoji -->
+  <!-- 如果哪天有了Logo放这里，没有就用这个emoji（💠） -->
   <h1>💠 Project Akasha</h1>
   <p>
     <strong>The Void Archive for Your Reality.</strong><br>
@@ -12,7 +12,7 @@
     <a href="#-roadmap">Roadmap</a>
   </p>
 
-  <!-- Shields.io 徽章，显得很专业 -->
+  <!-- Shields.io 徽章，显得老专业了 -->
   <img src="https://img.shields.io/badge/Status-In_Development-blueviolet?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Flutter_%2B_FastAPI-02569B?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Vibe-Moe_%26_Elegant-ff69b4?style=for-the-badge" alt="Vibe">
@@ -22,9 +22,9 @@
 
 ## 🌌 What is Akasha?
 
-**Project Akasha (阿卡夏记录)** 是一个运行在低成本 VPS 上的高性能收纳管理系统。
+**Project Akasha (阿卡莎)** 是一个运行在低成本 VPS 上的高性能收纳管理系统。
 
-它不是传统的库存表格，而是一个**魔法容器**。它利用 **JLCPCB 盒子** 作为物理存储单元，通过 **QR Code**、**NFC** 和 **WebAR** 技术，将你的实体谷子（Goods）与数字世界连接起来。
+它不是传统的库存表格，而是一个**魔法容器**。它利用 **JLC 盒子** 作为物理存储单元，通过 **QR Code**、**NFC（卡迷专属）** 等技术，将你的实体谷子与数字世界连接起来。
 
 旨在解决二次元死宅的终极痛点：
 > "我知道我买了这个吧唧，但它现在在哪个盒子里？"
