@@ -14,7 +14,7 @@
 
   <!-- Shields.io 徽章，显得老专业了 -->
   <img src="https://img.shields.io/badge/Status-In_Development-blueviolet?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Stack-Flutter_%2B_FastAPI-02569B?style=for-the-badge" alt="Stack">
+  <img src="https://img.shields.io/badge/Stack-Flutter_%2B_Fiber-02569B?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Vibe-Moe_%26_Elegant-ff69b4?style=for-the-badge" alt="Vibe">
 </div>
 
@@ -41,7 +41,7 @@
 
 ## 🚧 Roadmap
 
-- [x] **Genesis**: System Architecture Design (Flutter + FastAPI).
+- [x] **Genesis**: System Architecture Design (Flutter + Fiber ).
 - [ ] **The Gallery**: Waterfall layout with smooth transition animations.
 - [ ] **The Lens**: Barcode scanning with Glassmorphism UI.
 - [ ] **Resonance**: Dynamic color extraction & Gyroscope parallax.
